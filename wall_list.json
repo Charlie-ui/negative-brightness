@@ -1,22 +1,20 @@
 [
 	{
-		"name": "My wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_wallpaper.png",
-		"collections": "GRADIENT|ABSTRACT",
+		"name": "Bullseye alt",
+		"author": "Charlee Designs",
+		"url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/068.1_bullseye.png",
+		"thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/068.1_bullseye.jpg",
+		"collections": "Patterns",
 		"downloadable": true,
-		"size": 345066,
-		"dimensions": "1280 x 720 px",
-		"copyright": "CreativeCommons Attribution-ShareALike"
+		"copyright": "Personal use, Credits required"
 	},
 	{
-		"name": "My other wallpaper",
-		"author": "Jahir Fiquitiva",
-		"url": "https://www.mywebsite.com/wallpapers/my_other_wallpaper.png",
-		"thumbnail": "https://www.mywebsite.com/wallpapers/thumbnails/my_other_wallpaper.png",
-		"collections": "Landscapes,Art,Material Design",
-		"downloadable": false,
-		"copyright": "CreativeCommons Attribution-ShareALike"
+		"name": "Bullseye",
+		"author": "Charlee Designs",
+		"url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/068_bullseye.png",
+		"thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/068_bullseye.jpg",
+		"collections": "Patterns",
+		"downloadable": true,
+		"copyright": "Personal use, Credits required"
 	}
 ]
