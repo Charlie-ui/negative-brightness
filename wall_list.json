@@ -10,11 +10,20 @@
 	},
 	{
 		"name": "Bullseye",
-		"author": "Charlee Designs",
-		"url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/068_bullseye.png",
-		"thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/068_bullseye.jpg",
+        	"author": "Charlee Designs",
+        	"url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/068_bullseye.png",
+        	"thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/068_bullseye.jpg",
 		"collections": "Patterns",
-		"downloadable": true,
-		"copyright": "Personal use, Credits required"
+        	"downloadable": true,
+        	"copyright": "Personal use, Credits required"
+	},
+	{
+		"name": "Slices alt",
+        	"author": "Charlee Designs",
+        	"url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/067.1_slices.png",
+        	"thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/067.1_slices.jpg",
+		"collections": "Geometric",
+        	"downloadable": true,
+        	"copyright": "Personal use, Credits required"
 	}
 ]
