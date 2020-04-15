@@ -3,6 +3,54 @@
         [
 {
 
+        "name": "Quilt",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/072_quilt.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/072_quilt.jpg",
+        "collections": "Patterns",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Arcade",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/071_arcade.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/071_arcade.jpg",
+        "collections": "Patterns",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Cloud",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/070_cloud.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/070_cloud.jpg",
+        "collections": "Doodles",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Meteor",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/069_meteor.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/069_meteor.jpg",
+        "collections": "Doodles",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
         "name": "Bullseye alt",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/068.1_bullseye.png",
