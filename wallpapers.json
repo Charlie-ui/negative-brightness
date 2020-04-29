@@ -3,6 +3,54 @@
         [
 {
 
+        "name": "Kyoto",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/080_aurora.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/080_aurora.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Tridy Glow",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/079_tridy_glow.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/079_tridy_glow.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Tridy",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/078_tridy.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/078_tridy.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Strings",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/077_strings.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/077_strings.jpg",
+        "collections": "Vector blobs",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
         "name": "Aurora",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/076_aurora.png",
