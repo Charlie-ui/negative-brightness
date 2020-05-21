@@ -3,6 +3,54 @@
         [
 {
 
+        "name": "Wind",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/092_wind.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/092_wind.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Paint strokes",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/091_paint_strokes.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/091_paint_strokes.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Artos",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/090_artos.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/090_artos.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Holi",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/089_holi.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/089_holi.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
         "name": "Soap bubbles",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/088_soap_bubbles.png",
