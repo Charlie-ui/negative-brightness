@@ -3,6 +3,54 @@
         [
 {
 
+        "name": "Melo",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/096_melo.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/096_melo.jpg",
+        "collections": "Vector blobs",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Comb",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/095_comb.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/095_comb.jpg",
+        "collections": "Vector blobs",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Spin",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/094_spin.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/094_spin.jpg",
+        "collections": "Geometric",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Blossom",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/093_blossom.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/thumbs/093_blossom.jpg",
+        "collections": "Doodles|Landscapes",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
         "name": "Wind",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/images/092_wind.png",
