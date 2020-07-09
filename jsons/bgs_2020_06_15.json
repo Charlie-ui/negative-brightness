@@ -3,6 +3,54 @@
         [
 {
 
+        "name": "Papaya",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/126_papaya.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/126_papaya.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Blueberry",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/125_blueberry.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/125_blueberry.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Strawberry",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/124_strawberry.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/124_strawberry.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Lime",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/123_lime.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/123_lime.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
         "name": "Chito",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/122_chito.png",
