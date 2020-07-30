@@ -5,8 +5,8 @@
 
         "name": "Update",
         "author": "Charlee Designs",
-        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/update/update.png",
-        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/master/update/update.jpg",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/update/update.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/update/update.jpg",
         "collections": "Liquid",
         "downloadable": true,
         "copyright": "Personal use, Credits required"
