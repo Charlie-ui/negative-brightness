@@ -3,6 +3,66 @@
         [
 {
 
+        "name": "Rosa",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/142_rosa.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/142_rosa.jpg",
+        "collections": "Rendr",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Blear",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/141_blear.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/141_blear.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Ampere",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/140_ampere.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/140_ampere.jpg",
+        "collections": "Liquid",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Sigma smooth",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/139_sigma_smooth.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/139_sigma_smooth.jpg",
+        "collections": "Liquid|Rendr",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
+        "name": "Sigma",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/139_sigma.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/139_sigma.jpg",
+        "collections": "Patterns|Rendr",
+        "downloadable": true,
+        "copyright": "Personal use, Credits required"
+
+        },
+                
+{
+
         "name": "Waterfall",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/138_waterfall.png",
