@@ -5,7 +5,6 @@
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/142_rosa.png",
         "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/142_rosa.jpg",
         "collections": "Rendr",
-        "downloadable": true,
         "copyright": "Personal use, Credits required"
   },
   {
@@ -14,7 +13,6 @@
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/141_blear.png",
         "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/141_blear.jpg",
         "collections": "Liquid",
-        "downloadable": true,
         "copyright": "Personal use, Credits required"
   },
   {
@@ -23,7 +21,6 @@
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/140_ampere.png",
         "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/140_ampere.jpg",
         "collections": "Liquid",
-        "downloadable": true,
         "copyright": "Personal use, Credits required"
   },
   {
@@ -31,8 +28,7 @@
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/139_sigma_smooth.png",
         "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/139_sigma_smooth.jpg",
-        "collections": "Liquid|Rendr",
-        "downloadable": true,
+        "collections": "Liquid,Rendr",
         "copyright": "Personal use, Credits required"
   },
   {
@@ -41,7 +37,6 @@
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/001_river.png",
         "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/001_river.png",
         "collections": "Vector blobs",
-        "downloadable": true,
         "copyright": "Personal use, Credits required"
   }
 ]
