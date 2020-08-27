@@ -1,5 +1,45 @@
 [
   {
+        "name": "Polyscape",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/150_polyscape.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/150_polyscape.jpg",
+        "collections": "Doodles,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Voxel",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/149_voxel.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/149_voxel.jpg",
+        "collections": "Geometric,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Dreamwave",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/148_dreamwave.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/148_dreamwave.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Grid Lights alt",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/147_grid_lights_alt.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/147_grid_lights_alt.jpg",
+        "collections": "Geometric,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Grid Lights",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/147_grid_lights.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/147_grid_lights.jpg",
+        "collections": "Geometric,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
         "name": "Borealis",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/146_borealis.png",
