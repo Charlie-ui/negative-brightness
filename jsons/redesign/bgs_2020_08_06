@@ -1,5 +1,37 @@
 [
   {
+        "name": "Flumo",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/158_flumo.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/158_flumo.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Inter",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/157_inter.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/157_inter.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Proto",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/156_proto.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/156_proto.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Sona",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/155_sona.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/155_sona.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
         "name": "Coty",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/154_coty.png",
