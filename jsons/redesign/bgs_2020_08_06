@@ -1,5 +1,53 @@
 [
   {
+        "name": "Isolate alt",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/162_isolate_alt.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/162_isolate_alt.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Isolate",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/162_isolate.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/162_isolate.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Tiga",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/161_tiga.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/161_tiga.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Illuminate",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/160_illuminate.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/160_illuminate.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Emit",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/160_emit.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/160_emit.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Tangerine Clouds",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/159_tangerine_clouds.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/159_tangerine_clouds.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
         "name": "Flumo",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/158_flumo.png",
