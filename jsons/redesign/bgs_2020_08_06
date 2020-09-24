@@ -1,5 +1,37 @@
 [
   {
+        "name": "Altra",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/166_altra.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/166_altra.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Kuper",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/165_kuper.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/165_kuper.jpg",
+        "collections": "Geometric,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Pitch",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/164_pitch.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/164_pitch.jpg",
+        "collections": "Patterns",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Fluent Float",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/163_fluent_float.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/163_fluent_float.jpg",
+        "collections": "Geometric,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
         "name": "Isolate alt",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/162_isolate_alt.png",
