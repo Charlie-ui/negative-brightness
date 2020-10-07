@@ -1,5 +1,53 @@
 [
   {
+        "name": "Duo 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/174_duo_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/174_duo_2.jpg",
+        "collections": "Patterns,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Duo",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/174_duo.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/174_duo.jpg",
+        "collections": "Patterns,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Eclipse 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/173_eclipse_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/173_eclipse_2.jpg",
+        "collections": "Geometric,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Eclipse",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/173_eclipse.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/173_eclipse.jpg",
+        "collections": "Geometric,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Streak",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/172_streak.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/172_streak.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Pyro",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/171_pyro.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/171_pyro.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
         "name": "Ditri 3",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/170_ditri_3.png",
