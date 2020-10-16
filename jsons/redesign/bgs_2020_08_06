@@ -1,5 +1,69 @@
 [
   {
+        "name": "Nicotine",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/178_nicotine.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/178_nicotine.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Diamonds 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/177_diamonds_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/177_diamonds_2.jpg",
+        "collections": "Geometric,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Diamonds",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/177_diamonds.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/177_diamonds.jpg",
+        "collections": "Geometric,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Toxic",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/176_toxic.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/176_toxic.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Plosia 4",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/175_plosia_4.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/175_plosia_4.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Plosia 3",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/175_plosia_3.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/175_plosia_3.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Plosia 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/175_plosia_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/175_plosia_2.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Plosia",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/175_plosia.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/175_plosia.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
         "name": "Duo 2",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/174_duo_2.png",
