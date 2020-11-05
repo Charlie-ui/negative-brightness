@@ -1,5 +1,133 @@
 [
   {
+        "name": "Thermal 4",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/190_thermal_4.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/190_thermal_4.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Thermal 3",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/190_thermal_3.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/190_thermal_3.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Thermal 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/190_thermal_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/190_thermal_2.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Thermal",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/190_thermal.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/190_thermal.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Daisy 4",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/189_daisy_4.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/189_daisy_2.jpg",
+        "collections": "Doodles",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Daisy 3",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/189_daisy_3.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/189_daisy_3.jpg",
+        "collections": "Doodles",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Daisy 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/189_daisy_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/189_daisy_2.jpg",
+        "collections": "Doodles",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Daisy",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/189_daisy.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/189_daisy.jpg",
+        "collections": "Doodles",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Space dust 4",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/188_space_dust_4.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/188_space_dust_4.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Space dust 3",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/188_space_dust_3.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/188_space_dust_3.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Space dust 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/188_space_dust_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/188_space_dust_2.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Space dust",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/188_space_dust.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/188_space_dust.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Lava hills 4",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/187_lava_hills_4.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/187_lava_hills_4.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Lava hills 3",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/187_lava_hills_3.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/187_lava_hills_3.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Lava hills 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/187_lava_hills_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/187_lava_hills_2.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Lava hills",
+        "author": "Charlee Designs"
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/187_lava_hills.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/187_lava_hills.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
         "name": "Penta",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/186_penta.png",
