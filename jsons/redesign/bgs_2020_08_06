@@ -1,5 +1,77 @@
 [
   {
+        "name": "Amethyst 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/214_amethyst_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/214_amethyst_2.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Amethyst",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/214_amethyst.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/214_amethyst.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Wormhole 4",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/213_wormhole_4.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/213_wormhole_4.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Wormhole 3",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/213_wormhole_3.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/213_wormhole_3.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Wormhole 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/213_wormhole_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/213_wormhole_2.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Wormhole",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/213_wormhole.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/213_wormhole.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Nebula 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/212_nebula_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/212_nebula_2.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Nebula",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/212_nebula.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/212_nebula.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Nether",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/211_nether.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/211_nether.jpg",
+        "collections": "Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
         "name": "Lumos 3",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/210_lumos_3.png",
