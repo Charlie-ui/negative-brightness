@@ -1,5 +1,69 @@
 [
   {
+        "name": "Arctic 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/218_arctic_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/218_arctic_2.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Arctic",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/218_arctic.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/218_arctic.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Sotro 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/217_sotro_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/217_sotro_2.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Sotro",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/217_sotro.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/217_sotro.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Ashi 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/216_ashi_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/216_ashi_2.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Ashi",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/216_ashi.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/216_ashi.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Repel 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/215_repel_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/215_repel_2.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Repel",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/215_repel.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/215_repel.jpg",
+        "collections": "Liquid,Rendr",
+        "copyright": "Personal use, Credits required"
+  },
+  {
         "name": "Amethyst 2",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/214_amethyst_2.png",
