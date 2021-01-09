@@ -1,5 +1,53 @@
 [
   {
+        "name": "Northern Lights",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/226_northern_lights.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/226_northern_lights.jpg",
+        "collections": "Landscapes",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Sunrise",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/225_sunrise.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/225_sunrise.jpg",
+        "collections": "Landscapes",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Alpine Night",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/224_alpine_night.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/224_alpine_night.jpg",
+        "collections": "Landscapes",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Alpine",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/224_alpine.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/224_alpine.jpg",
+        "collections": "Landscapes",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Dome 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/223_dome_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/223_dome_2.jpg",
+        "collections": "Landscapes",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Dome",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/223_dome.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/223_dome.jpg",
+        "collections": "Landscapes",
+        "copyright": "Personal use, Credits required"
+  },
+  {
         "name": "Parabo",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/222_parabo.png",
