@@ -1,5 +1,21 @@
 [
   {
+        "name": "Entrance - Grabster Studios Collab",
+        "author": "Charlee Designs and Grabster Studios",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/228_entrance_grabster_collab.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/228_entrance_grabster_collab.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Ghostly - Grabster Studios Collab",
+        "author": "Charlee Designs and Grabster Studios",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/227_ghostly_grabster_collab.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/227_ghostly_grabster_collab.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
         "name": "Northern Lights",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/226_northern_lights.png",
