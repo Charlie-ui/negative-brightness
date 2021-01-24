@@ -1,5 +1,61 @@
 [
   {
+        "name": "Bisma 3",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/236_bisma_3.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/236_bisma_3.jpg",
+        "collections": "Rendr,Geometric,Patterns",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Bisma 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/236_bisma_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/236_bisma_2.jpg",
+        "collections": "Rendr,Geometric,Patterns",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Bisma",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/236_bisma.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/236_bisma.jpg",
+        "collections": "Rendr,Geometric,Patterns",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Polymoon 2",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/235_polymoon_2.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/235_polymoon_2.jpg",
+        "collections": "Rendr,Geometric",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Polymoon",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/235_polymoon.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/235_polymoon.jpg",
+        "collections": "Rendr,Geometric",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Glacier",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/234_glacier.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/234_glacier.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
+        "name": "Energy",
+        "author": "Charlee Designs",
+        "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/233_energy.png",
+        "thumbnail": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/thumbs/233_energy.jpg",
+        "collections": "Liquid",
+        "copyright": "Personal use, Credits required"
+  },
+  {
         "name": "Peach",
         "author": "Charlee Designs",
         "url": "https://raw.githubusercontent.com/Charlie-ui/negative-brightness/dark/images/232_peach.png",
